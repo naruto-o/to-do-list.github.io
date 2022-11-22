@@ -4,4 +4,5 @@
  
 # Image of the  Hosted Website For full functionality visit the url
 # link for the website ** https://naruto-o.github.io/to-do-list.github.io/ **
-![Screenshot (78)](https://user-images.githubusercontent.com/73755581/203352232-ce7288c0-9a90-460d-8a11-b996b2459e91.png)
+
+![Screenshot (79)](https://user-images.githubusercontent.com/73755581/203388445-af311d4e-ca8f-4dbf-9ca0-582bd466a897.png)
